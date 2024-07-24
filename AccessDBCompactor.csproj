@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <PlatformTarget>x86</PlatformTarget>
+    <RuntimeIdentifiers>win-x86</RuntimeIdentifiers>
+    <OutputType>Exe</OutputType> <!-- Certifique-se de que o tipo de saída é Exe -->
+  </PropertyGroup>
+</Project>
